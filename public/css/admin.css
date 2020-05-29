@@ -1,0 +1,33 @@
+.hidden{
+    display: none;
+}
+body {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+    line-height: 30px;
+    color: #777;
+    background: rgb(113,9,17);
+    background: radial-gradient(circle, rgba(113,9,17,1) 0%, rgba(88,39,145,1) 100%);
+  }
+
+.container{
+    border-style: solid;
+    border-width: medium;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+#btn-register{
+    margin-bottom: 10px;
+    background-color:green;
+}
+
+.stickyBottom{
+    text-align: center;
+    background-color: rgb(241, 244, 245);
+    padding:20px;
+    
+}
+.stickyBottomSections{
+    padding: 80px;
+}

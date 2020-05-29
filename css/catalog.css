@@ -1,0 +1,96 @@
+
+
+a:hover {
+    background-color: yellow;
+    color: rgb(252, 245, 246);
+    border-radius: 5px;
+}
+
+
+.item{
+    display: inline-block;
+    border:1px solid rgb(185,185,185);
+    width: 13rem;
+    height: 12rem;
+    margin: 15px;
+    padding: 30px;
+}
+
+.item img{
+    width: 250px;
+    height: 200px;
+    margin: 5px;
+}
+
+.itemPrice{
+    font-weight: 400px;
+    font-size: 2rem;
+    color: rgb(240, 230, 230);
+}
+img {
+    border-radius: 50%;
+    margin-left: 130px;
+   
+}
+
+h1{
+    text-align: center;
+    color: rgb(206, 206, 219)
+}
+ul {
+    white-space: nowrap;
+}
+  
+ul, li {
+    list-style: none;
+    display: inline;
+}
+
+.aboutMeClass{
+    color:rgb(147, 131, 131);
+    border: 5px white solid;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+h3{
+    background-color: white;    
+    height: auto;
+    font-weight: 300;
+    padding-left: 10px;
+    margin-right: 85%;
+    border-radius: 15px;
+    box-shadow: 5px 10px gray;
+    border-radius: 24px;
+
+}
+.seeUs{
+    text-align: center;
+    color: rgb(13, 20, 99);
+    background: rgb(249,247,241);
+    background: radial-gradient(circle, rgba(249,247,241,1) 0%, rgba(242,239,15,1) 100%);
+    border: 5px solid rgb(245, 241, 241);
+    border-radius: 10px;
+    
+}
+body {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+    line-height: 30px;
+    color: #777;
+    background: rgb(113,9,17);
+  background: radial-gradient(circle, rgba(113,9,17,1) 0%, rgba(88,39,145,1) 100%);
+  }
+
+.stickyBottom{
+    text-align: center;
+    background-color: rgb(241, 244, 245);
+    padding:20px;
+    
+}
+.stickyBottomSections{
+    padding: 80px;
+}
